@@ -1,6 +1,10 @@
 {
   "name": "keeper-part-3-starting",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.x",
+    "npm": "8.1.2"
+  },
   "description": "",
   "keywords": [],
   "main": "src/index.js",
